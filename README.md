@@ -1,0 +1,1 @@
+Minimal Node.js web app for testing argocd
